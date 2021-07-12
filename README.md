@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=51cf66&height=150&section=header&text=Donghyeon%20Jung&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=51cf66&height=150&section=header&text=Donghyeon%20Jung&fontSize=60)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flouis-25&count_bg=%23339AF0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
